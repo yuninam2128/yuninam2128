@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=%EB%82%A8%EC%A7%80%EC%9C%A4&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Physical%20AI%20%C2%B7%20HCI%20%C2%B7%20Human-Robot%20Interaction&descSize=15&descAlignY=58" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=18&pause=1200&color=5BC0EB&center=true&vCenter=true&width=520&lines=%EC%82%AC%EB%9E%8C%EC%9D%84+%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94+%EA%B8%B0%EA%B3%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A0%9C%EC%8A%A4%EC%B2%98+%E2%86%92+%EB%93%9C%EB%A1%A0+%E2%86%92+%ED%98%84%EC%8B%A4+%EC%84%B8%EA%B3%84;Sim-to-real%2C+%EB%B2%84%EA%B7%B8+%ED%95%98%EB%82%98%EC%94%A9" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=18&pause=1200&color=5BC0EB&center=true&vCenter=true&width=520&lines=%EC%82%AC%EB%9E%8C%EC%9D%84+%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94+%EA%B8%B0%EA%B3%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%A0%9C%EC%8A%A4%EC%B2%98+%E2%86%92+%EB%93%9C%EB%A1%A0+%E2%86%92+%ED%98%84%EC%8B%A4+%EC%84%B8%EA%B3%84;Sim-to-real%2C+%EB%B2%84%EA%B7%B8+%ED%95%98%EB%82%98%EC%94%A9" alt="Typing SVG" /></a> -->
 
 </div>
 
