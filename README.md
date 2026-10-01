@@ -12,21 +12,21 @@
 
 ## 대표 프로젝트
 
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| **[Gesture-Drone-Control](https://github.com/yuninam2128/Gesture-Drone-Control)** | 제스처 기반 Tello 드론 제어 + Unity 디지털 트윈. LLM 경로 계획, SAC + 커리큘럼 러닝(성공률 0.96–1.00), A*/RRT* 경로 탐색 | Python · Unity · PyTorch |
-| **키네틱 아트** | 인터랙티브 키네틱 설치 작품 | p5.js · Arduino |
-| **[OMO](https://github.com/yuninam2128/OMO)** | 해외 준비(교환학생/워홀/인턴)를 위한 llm 기반 서치 + 관련 정보 AI 브리핑 서비스. PM으로 전체 제품 사이클 리드 | React · RAG · Gemini API |
-| **키네틱 아트** | 인터랙티브 키네틱 설치 작품 | p5.js · Arduino |
+| 프로젝트 | 설명 | 역할 | 스택 |
+|---|---|---|---|
+| **[AURORA](https://github.com/Johyeonwoooooooo/AURORA)** | 자연어 명령을 LLM 에이전트가 해석해 로봇이 목표 공간으로 자율 이동하고, YOLO로 물체를 찾아오는 대화형 객체 탐색 로봇 | Unity Tello 시뮬레이터, 3D 복셀맵 경로탐색, 자동주행 충돌 검증 벤치마크 | Python · Unity · YOLO |
+| **[속삭편지](https://github.com/soksak-letter/soksak-Front)** | 매일 오는 질문에 답하고 익명 상대와 편지를 주고받는 서비스. UMC 9기 데모데이 · [서비스 바로가기](https://www.soksak-letter.com) | FE — 설정·마이·편지함, 무한스크롤, 렌더링 최적화, 접근성 | React · TypeScript |
+| **[OMO](https://github.com/OMO-team/OMO-FE)** | 해외 준비(교환학생/워홀/인턴)를 위한 LLM 기반 서치 + AI 브리핑 서비스 | PM — 제품 사이클 리드, Amplitude · Clarity 분석 트래킹 셋업 | React · RAG · Gemini API |
 
 ## 기술 스택
 
 **언어**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 </p>
 
 **AI / 로보틱스**
@@ -47,16 +47,16 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-## 📊 깃허브 통계
+## 깃허브 통계
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=kr" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=kr" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuninam2128&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=kr" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuninam2128&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=kr" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&locale=ko" />
+<img src="https://streak-stats.demolab.com?user=yuninam2128&theme=tokyonight&hide_border=true&locale=ko" />
 </div>
 
-## 📫 연락처
+## 연락처
 
 <p>
 <a href="mailto:yuninam2128@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -64,17 +64,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-<!--
-**yuninam2128/yuninam2128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
