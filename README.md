@@ -6,26 +6,26 @@
 
 </div>
 
-## 👋 소개
+## 소개
 
-- 🎓 숭실대학교 **글로벌미디어학부** (CS × 그래픽스 × 디자인 × UX)
-- 🤖 **Physical AI / VLA**, **HCI**, 그리고 사람과 물리 시스템 사이의 상호작용에 관심 있습니다
+- 숭실대학교 **글로벌미디어학부** (CS × UX)
 
-## 🚁 대표 프로젝트
+## 대표 프로젝트
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
 | **[Gesture-Drone-Control](https://github.com/yuninam2128/Gesture-Drone-Control)** | 제스처 기반 Tello 드론 제어 + Unity 디지털 트윈. LLM 경로 계획, SAC + 커리큘럼 러닝(성공률 0.96–1.00), A*/RRT* 경로 탐색 | Python · Unity · PyTorch |
-| **[OMO](https://github.com/yuninam2128/OMO)** | 해외 준비(교환학생·워홀·인턴)를 위한 메타서치 + AI 브리핑 서비스. PM으로 전체 제품 사이클 리드 | React · RAG · Notion MCP |
+| **키네틱 아트** | 인터랙티브 키네틱 설치 작품 | p5.js · Arduino |
+| **[OMO](https://github.com/yuninam2128/OMO)** | 해외 준비(교환학생/워홀/인턴)를 위한 llm 기반 서치 + 관련 정보 AI 브리핑 서비스. PM으로 전체 제품 사이클 리드 | React · RAG · Gemini API |
 | **키네틱 아트** | 인터랙티브 키네틱 설치 작품 | p5.js · Arduino |
 
-## 🧰 기술 스택
+## 기술 스택
 
 **언어**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
